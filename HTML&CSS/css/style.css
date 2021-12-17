@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.header h1{
+    text-align: center;
+    color: honeydew;
+    background-color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-width: 20px;
+    height: 60px;
+
+}
+.head {
+    margin-top: 0;
+    width: 100%;
+    align-items: center;
+    position: absolute;
+    background-color: #4267B2;
+}
+ul{
+    padding-left: 30%;
+    list-style: none;
+    
+   
+   
+}
+li{
+
+    float: left;
+	font-family: Segoe,"Segoe UI","Dejavu sans","trebuchet MS", Verdana,sans-serif;
+	font-size: 1.2em;
+	/*line-height: 40px;*/
+    padding-right: 20px;
+
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    
+}
+.green{
+    margin-top: 1px;
+    background-color: #4CAF50; 
+    border: none;
+    height: 30px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2em;
+    /*line-height : 40px;*/
+    border-radius: 10%;
+    
+}
+.sinput{
+    width: 200px;
+    height:20px
+    
+}
+
+.signup{
+    margin-top: 150px;
+   
+
+}
+.terms{
+    text-decoration: none;
+    color:#009DAE;
+}
+.sform{
+   
+    margin-right: 40%;
+    margin-left: 35%;
+    margin-bottom: 60%;
+    margin-top: 0;
+    padding: 30px;
+    position: absolute;
+}
+
+.button{
+    color: whitesmoke;
+    background-color: #1b57d1;
+    position: relative;
+    margin-left: 190px;
+    height: 30px;
+    
+
+}
+.input{
+    width: 250px;
+    height: 20px;
+    padding: 3px;
+    border-radius: 5px;
+    border-color: slategrey;
+    margin-top: 10px;
+}
+.lab{
+    margin-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.footer {
+    
+    text-align: center;
+    color: snow;
+    background-color: slategrey;
+    border-width: 300px;
+    height: 50px;
+    margin-top: 100%;
+    position: absolute;
+    width: 100%;
+   
+    
+}
+.next{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
